@@ -47,5 +47,12 @@
     "category": "Bills",
     "amount": "-300",
     "date": "06-13 11:13"
+  },
+  { 
+    "key": 8,
+    "narration": "Internet for Phone",
+    "category": "Bills",
+    "amount": "-100",
+    "date": "06-13 11:13"
   }
 ]
