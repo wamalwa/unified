@@ -40,5 +40,12 @@
     "category": "Fare",
     "amount": "-630",
     "date": "06-10 14:13"
+  },
+  { 
+    "key": 6,
+    "narration": "Mama fua",
+    "category": "Bills",
+    "amount": "-300",
+    "date": "06-13 11:13"
   }
 ]
