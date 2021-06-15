@@ -26,6 +26,12 @@
     "category": "Family & Friends",
     "amount": "-527",
     "date": "06-10 14:13"
+  },
+  { 
+    "key": 5,
+    "narration": "Kitty Tours",
+    "category": "Refund",
+    "amount": "1000",
+    "date": "06-10 14:13"
   }
-  
 ]
